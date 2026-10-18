@@ -14,10 +14,10 @@ Building intelligent systems that bridge the gap between complex AI frameworks a
 
 ## 🌐 Connect With Me
 
-<a href="https://salsabilasyahirah.dev" target="_blank">
+<a href="https://salsabilasyahirah.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-salsabilasyahirah.dev-00A676?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
-<a href="https://linkedin.com/in/salsabilasyahirah" target="_blank">
+<a href="https://linkedin.com/in/ssyahirah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/sasyablossom" target="_blank">
